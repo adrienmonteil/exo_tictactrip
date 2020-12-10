@@ -1,2 +1,2 @@
 # exo_tictactrip
-Exercice pour l'entretien Tictactrip
+Exercice de crunching pour l'entretien Tictactrip
